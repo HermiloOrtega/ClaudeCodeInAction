@@ -1,0 +1,6 @@
+- Change Design and UX/UI of the interface of an app 
+- GitHub: Review Changes in Pull Request 
+- Claude code easily read Terraform files 
+    - Terraform uses plain text configuration files written in the HashiCorp Configuration Language (HCL) or JSON to define infrastructure as code.
+- Claude Code integration with GitHub
+- 
